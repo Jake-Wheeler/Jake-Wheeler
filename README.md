@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **conceptual structure of neural networks**
 
-- 📫 How to reach me **wheeljac001@gmail.com**
+- 📫 How to reach me, **wheeljac001@gmail.com**
 
-- ⚡ Fun fact **I love math and problem solving!**
+- ⚡ Fun fact: **I love math and problem solving!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
