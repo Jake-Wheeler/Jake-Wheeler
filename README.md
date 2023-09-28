@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jake</h1>
-<h3 align="center">Undergrad student, at Valencia/UCF in FL, working for a BS in Computer Science, specializing in AI/ML!</h3>
+<h3 align="center">Undergrad student, at Valencia/UCF in FL, working towards a doctorate in Quantum Machine Learning!</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk2ZWYwNjBkZTY5NTNlZTI1ODY0ZDJmYmY2NGY4Mjk2NWIxYjQwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jake-wheeler&label=Profile%20views&color=0e75b6&style=flat" alt="jake-wheeler" /> </p>
 
-- 🌱 I’m currently learning **C language and Neural Networks**
+- 🌱 I’m currently learning **Java and Neural Networks**
 
 - 💬 Ask me about **conceptual structure of neural networks**
 
